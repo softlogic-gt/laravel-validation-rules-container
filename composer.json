@@ -1,6 +1,6 @@
 {
     "name": "softlogic-gt/laravel-validation-rules-container",
-    "description": "A set of useful Laravel validation rules shipping containers",
+    "description": "A set of useful Laravel validation rules for shipping containers",
     "keywords": [
         "softlogic",
         "laravel-validation-rules-container"
