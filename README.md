@@ -1,6 +1,7 @@
 # A set of useful Laravel validation rules for shipping container numbers
 
-This repository contains useful Laravel validation rules for shipping container numbers:
+This repository contains useful Laravel validation rules for shipping container numbers, based on:
+https://github.com/stormpat/Container-validator/blob/master/src/Validator/Validator.php
 
 ## Installation
 
