@@ -25,7 +25,7 @@ class Container implements Rule
 
     public function nullable(): self
     {
-        $this->container = false;
+        $this->container = true;
 
         return $this;
     }
@@ -34,7 +34,11 @@ class Container implements Rule
     {
         $this->attribute = $attribute;
 
-        if (empty($value) || !is_string($value)) {
+        if (empty($value)) {
+            return true;
+        }
+
+        if (!is_string($value)) {
             return false;
         }
 
