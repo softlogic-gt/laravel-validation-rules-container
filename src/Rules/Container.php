@@ -1,4 +1,5 @@
 <?php
+
 namespace SoftlogicGT\ValidationRulesContainer\Rules;
 
 use Illuminate\Contracts\Validation\Rule;

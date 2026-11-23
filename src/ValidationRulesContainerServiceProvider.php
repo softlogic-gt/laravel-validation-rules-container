@@ -1,4 +1,5 @@
 <?php
+
 namespace SoftlogicGT\ValidationRulesContainer;
 
 use Illuminate\Support\ServiceProvider;

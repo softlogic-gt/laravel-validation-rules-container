@@ -1,0 +1,9 @@
+{
+    "laravel-pint.enable": false,
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer",
+        "editor.formatOnSave": true
+    },
+    "php-cs-fixer.executablePath": "~/.vscode/extensions/junstyle.php-cs-fixer-0.3.21/php-cs-fixer.phar",
+    "php-cs-fixer.config": ".php-cs-fixer.dist.php"
+}
